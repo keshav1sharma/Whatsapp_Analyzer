@@ -1,11 +1,54 @@
 # Whatsapp_Analyzer
 Program to calculate Total / Average time , Number of messages etc. from a Whatsapp chat.
 
+
+
 **Analyzing WhatsApp Chat Logs**
 
 This Python script is designed to analyze WhatsApp chat logs saved in a text file format. It uses regular expressions to match the timestamp and messages in the chat, and calculates various statistics such as total time spent chatting, number of messages sent, messages sent by each person, and average messages per day.
 
+
+
+
 **Setup**
+
+
+
+
+1.  Clone the repository to your local machine.
+
+2.  Install Python 3 if you haven't already.
+
+3.  Extract the chat log file from WhatsApp as a text file.
+
+4.  Copy the chat log text file to the same directory as the chat_analyzer.py file.
+
+5.  Rename the chat log file to chat.txt or modify the filename variable in chat_analyzer.py to match the name of your chat log file.
+
+6.  Run the program by executing the chat_analyzer.py file using Python.
+
+
+
+
+
+**How to extract a chat log file from WhatsApp**
+
+
+
+
+1.  Open WhatsApp on your mobile device.
+
+2.  Go to the chat you want to extract and tap on the contact/group name at the top.
+
+3.  Scroll down to "Export Chat" and tap on it.
+
+4.  Choose "Without Media" to export only the text messages.
+
+5.  Select the method to export the chat, such as email, cloud storage, or sharing to another app.
+
+6.  Once the chat is exported, download the text file to your computer and follow the steps in the Setup section above.
+
+
 
 Before running the script, make sure to set the filename variable to the path of the chat.txt file that you want to analyze. The chat.txt file should be a plain text file with one line per message, in the format:
 
