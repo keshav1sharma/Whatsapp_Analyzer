@@ -22,7 +22,7 @@ This Python script is designed to analyze WhatsApp chat logs saved in a text fil
 
 1.  Clone the repository to your local machine.
 
-2.  Install Python 3 if you haven't already.
+2.  Install Python 3 or C++ if you haven't already.
 
 3.  Extract the chat log file from WhatsApp as a text file.
 
