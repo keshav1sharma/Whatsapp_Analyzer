@@ -1,3 +1,8 @@
+/*  
+Author: Keshav Sharma
+Date: June 20, 2023
+Description: A script to analyze a chat log and calculate the total time spent chatting,  the message count, the count of messages sent by each person, and the average messages per day.
+*/
 #include <iostream>
 #include <fstream>
 #include <regex>
